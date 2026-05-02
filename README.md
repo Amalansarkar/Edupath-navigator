@@ -1,20 +1,31 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Edupath Navigator
 
-# Run and deploy your AI Studio app
+Edupath Navigator is a simple and clean learning roadmap website.  
+It helps users explore step-by-step learning paths for different skills and career goals.
 
-This contains everything you need to run your app locally.
+## Project Overview
 
-View your app in AI Studio: https://ai.studio/apps/5f278f88-0327-4339-930b-787a5182b267
+This website is designed to guide learners by showing what they should learn first, what comes next, and how each skill connects to a future career path.
 
-## Run Locally
+## Features
 
-**Prerequisites:**  Node.js
+- Clean and modern user interface
+- Learning roadmap navigation
+- Skill-based progress tracking
+- Beginner-friendly dashboard
+- Career-focused learning paths
+- Built with React, Vite, TypeScript, and Tailwind CSS
 
+## Technologies Used
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- React.js
+- Vite
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+
+## How to Run Locally
+
+```bash
+npm install
+npm run dev
